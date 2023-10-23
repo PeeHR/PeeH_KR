@@ -4,7 +4,7 @@
   <img height="150px"width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaropaixao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="PeeH_Py" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
+  <img align="center" alt="PeeH_Py" height="30" width="40" src="https://image.pngaaa.com/287/1947287-middle.png">
   <img align="right" alt="Icaro-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/c6/a4/9f/c6a49feb5ac60a98443b610186dbc473.jpg">
 </div>
   
