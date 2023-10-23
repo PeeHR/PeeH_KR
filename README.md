@@ -1,6 +1,6 @@
 ## Olá! sou Pedro Vinicius!🫡​
 <div align="center">
-  <a href="https://github.com/icaropaixao">
+  <a href="https://github.com/PeeHR">
   <img height="150px"width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaropaixao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
